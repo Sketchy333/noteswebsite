@@ -81,6 +81,10 @@ nav > ul {
     color: white;
 }
 
+#header-title{
+    cursor: pointer;
+}
+
 
 /*Page Classes*/
 .page-title{
